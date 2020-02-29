@@ -1,4 +1,4 @@
-[projects](/projects)
+[Projects](/projects) [Contact](/contact)
 
 ## About
 Hi! I'm Eric Stern, a 4th year (out of 5) computer science and business administration major at Northeastern University.
