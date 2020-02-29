@@ -15,4 +15,5 @@ In addition to co-ops, I also tutored for [Fundamentals of Computer Science II](
 - I've completed a few personal projects, which can be found [here](/projects).
 - I'm often either watching Mets games, or waiting for baseball season to start (being a NY Giants fan has been painful the past few years). 
 - I'm a mentor in the [Computer Science Mentoring Organization](https://nucosmo.club/) at Northeastern
+- I play for the NEU Counter-Strike: Global Offensive C team.
 - I really suck at squash (and table tennis, see my theory above).
